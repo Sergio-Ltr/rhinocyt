@@ -4,9 +4,11 @@ Go to release page and download the DNN or click this https://github.com/davideb
 
 ## Getting Started
 
-Open a command prompt and from the root of the directory type this command:
+Open a command prompt and type this command:
 
 ```
+git clone https://github.com/davidebufo2/rhinocyt.git
+cd rhinocyt/
 python manage.py runserver
 ```
 
