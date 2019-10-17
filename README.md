@@ -1,6 +1,6 @@
 # rhinocyt
 
-Go to release page and download the DNN. Then place it inside the local repository to work.
+Go to release page and download the DNN or click this https://github.com/davidebufo2/rhinocyt/releases/download/1.0/frozen_inference_graph.pb. Then place it inside the local repository to work.
 
 ## Getting Started
 
